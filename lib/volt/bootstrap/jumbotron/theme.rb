@@ -1,5 +1,3 @@
-require "volt/bootstrap/jumbotron/theme/version"
-
 class Volt
   class Bootstrap
     class Jumbotron
