@@ -1,4 +1,4 @@
-class Volt
+module Volt
   class Bootstrap
     class Jumbotron
       class Theme
